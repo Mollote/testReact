@@ -1,3 +1,5 @@
+
+<img width="703" alt="스크린샷 2024-07-20 15 55 25" src="https://github.com/user-attachments/assets/c0ab6d1c-abd9-4d46-98ac-cdd45c27172b">
 * 시작 목업 이미지 넣을 예정 *
 
 # 식물 관리 도우미 서비스앱 Planto!
@@ -8,10 +10,10 @@
 
 2024.06.20 ~ 07.20
 
-# 1. 아키텍처 ( 수정예정 )
+# 아키텍처 ( 수정예정 )
 <img width="814" alt="스크린샷 2024-07-20 15 52 07" src="https://github.com/user-attachments/assets/7f7573a0-e0b3-4e8d-abf1-1916caa5b060">
 
-# 2. 기술 스택
+# 기술 스택
 Front : HTML, React, styled-components
 Back-end : Firebase
 버전 및 이슈관리 : Github, Github Issues, Github Project
@@ -21,7 +23,19 @@ Back-end : Firebase
 (이럭식으로 수정 예정)
 <img width="508" alt="스크린샷 2024-07-20 15 53 40" src="https://github.com/user-attachments/assets/1b0c7c88-0694-4cd8-801c-a37e218ff5d4">
 
-# 3. 디렉토리 구조 ( 형식 참조 ) 
+# 성능 최적화
+
+최적화 내용 ~
+
+# 트러블 슈팅
+
+트러블슈팅 내용~
+
+# 기술적 의사결정
+
+유용한 문서~
+
+# 디렉토리 구조 ( 형식 참조 ) 
 ```
 📦src
  ┣ 📂components
