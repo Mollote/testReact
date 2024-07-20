@@ -22,7 +22,7 @@ Back-end : Firebase
 <img width="508" alt="스크린샷 2024-07-20 15 53 40" src="https://github.com/user-attachments/assets/1b0c7c88-0694-4cd8-801c-a37e218ff5d4">
 
 # 3. 디렉토리 구조 ( 형식 참조 ) 
-
+```
 📦src
  ┣ 📂components
  ┣ 📂constants
@@ -48,3 +48,4 @@ Back-end : Firebase
  ┃ ┣ 📂Search
  ┃ ┣ 📂Signin
  ┗ ┗ 📂Signup
+```
