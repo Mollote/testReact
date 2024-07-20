@@ -8,7 +8,7 @@
 
 # 1. 개발 환경
 
-Front : HTML, React, styled-components, Recoil
+Front : HTML, React, styled-components
 Back-end : 제공된 API 활용
 버전 및 이슈관리 : Github, Github Issues, Github Project
 협업 툴 : Discord, Notion, Github Wiki
