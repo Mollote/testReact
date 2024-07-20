@@ -6,7 +6,7 @@
 
 2024.06.20 ~ 07.20
 
-1. 개발 환경
+# 1. 개발 환경
 
 Front : HTML, React, styled-components, Recoil
 Back-end : 제공된 API 활용
