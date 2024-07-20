@@ -1,6 +1,6 @@
 
 <img width="703" alt="스크린샷 2024-07-20 15 55 25" src="https://github.com/user-attachments/assets/c0ab6d1c-abd9-4d46-98ac-cdd45c27172b">
-* 시작 목업 이미지 넣을 예정 *
+* 목업 이미지 대체? *
 
 # 식물 관리 도우미 서비스앱 Planto!
 
